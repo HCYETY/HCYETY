@@ -1,5 +1,5 @@
 ### Hi there, I'm HCYETY! 👋
-
+<!-- [使用文档](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md) -->
 <div style="display: flex">
 
 [comment]: <> (  <div>)
@@ -32,7 +32,7 @@
     <a href="https://github.com/HCYETY">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HCYETY&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    <a href="https://yunlingfly.github.io">
+    <a href="https://hcyety.github.io/">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HCYETY&repo=HCYETY.github.io&theme=algolia" />
     </a>
   </p>
